@@ -1,9 +1,14 @@
 <h1 align="center">Athika Fatima </h1>
 <h3 align="center">Student Entrepreneur and Product Developer</h3>
 
+<br> 📌 Hi there!<br>
+I'm Athika Fatima. An IT Engineer specialising in Full Stack Web Development. <br> I love the entire process of developing creative web applications. I love the challenge of working on new projects and spending time to network with new people. Learning how to build scalable projects and flying to the moon. <br>
 
+📌 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂?<br>
+Having an Experience in Full Stack Web Development, Wireframing, Prototyping and shipping MVPs. Love to document my journey.<br>
 
-
+📌𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
+A 3x Student Founder that has tried and failed. I've been there, done that. But I'm not ready to giveup. Because I now know what not to do. I've also been privileged enough to work with 120+ startups in helping them in wireframing, prototyping and building their MVPs.<br>
 
 
 **Obsessed over** 🤩<br>
@@ -11,12 +16,23 @@
 - Startups🚀
 - Web3.0💻
 - Marketing 🤳
-- Designing ✏️
+- Designing 💎
 - Coding 🧑‍💻
 - Wireframing, Prototyping & MVPs❤️❤️
-- Writing❤️
+- Writing✏️
 
 <hr />
+
+<!-- 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 : <br>
+
+- [Kids Coding Bootcamp👶🏻](https://kids.code.in/) World-class Coding Bootcamp for Kids<br> -->
+
+I𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
+
+- theyouthfounders.com🔍 (Live 2023-24) ⏳
+
+<hr />
+
 
 
 
