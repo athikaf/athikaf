@@ -20,16 +20,20 @@ A 3x Student Founder that has tried and failed. I've been there, done that. But 
 - Coding 🧑‍💻
 - Wireframing, Prototyping & MVPs❤️❤️
 - Writing✏️
+- Hardware🛠
 
 <hr />
 
 <!-- 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 : <br>
 
+
+- [Kind Tribe❤️](http://kindtribe.org/) Mental Wellness Platform, providing you with the right emotional support.<br> -->
 - [Kids Coding Bootcamp👶🏻](https://kids.code.in/) World-class Coding Bootcamp for Kids<br> -->
+
 
 I𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
 
-- theyouthfounders.com🔍 (Live 2022-23) ⏳
+- theyouthfounders.com🔍 (Live 2023) ⏳
 
 <hr />
 
