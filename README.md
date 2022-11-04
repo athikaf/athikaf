@@ -17,7 +17,7 @@ A 3x Student Founder that has tried and failed. I've been there, done that. But 
 - Web3.0💻
 - Marketing 🤳
 - Designing 💎
-- Coding 🧑‍💻
+- Product Development 🧑‍💻
 - Wireframing, Prototyping & MVPs❤️❤️
 - Writing✏️
 - Hardware🛠
