@@ -40,9 +40,9 @@ I𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=athikaf&show_icons=true&locale=en" alt="athikaf" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=athikaf&show_icons=true&locale=en" alt="athikaf" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athikaf&" alt="athikaf" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athikaf&" alt="athikaf" /> </p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
