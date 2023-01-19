@@ -28,7 +28,6 @@ A 3x Student Founder that has tried and failed. I've been there, done that. But 
 
 
 - [Kind Tribe❤️](http://kindtribe.org/) Mental Wellness Platform, providing you with the right emotional support.<br>
-- [Kids Coding Bootcamp👶🏻](https://kids.code.in/) World-class Coding Bootcamp for Kids<br>
 
 
 I𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
