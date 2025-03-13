@@ -1,5 +1,5 @@
 <h1 align="center">Athika Fatima </h1>
-<h3 align="center">Student Entrepreneur and Product Developer</h3>
+<h3 align="center">Blockchain & AI Engineer</h3>
 
 <br> **📌 Hi there!**<br>
 I'm Athika Fatima. An IT Engineer specialising in Full Stack Web Development. <br> I love the entire process of developing creative web applications. I love the challenge of working on new projects and spending time to network with new people. Learning how to build scalable projects and flying to the moon. <br>
