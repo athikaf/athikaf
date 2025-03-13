@@ -27,7 +27,7 @@ A 3x Founder that has tried and failed. I've been there, done that. But I'm not 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 : <br>
 
 
-- [BorderLink🚀] (https://borderlink.xyz/): A cross border payment platform that utilizes the power of blockchain technology through the concept of Central Bank Digital Currencies, aka CBDCs.
+- [BorderLink🚀](https://borderlink.xyz/): A cross border payment platform that utilizes the power of blockchain technology through the concept of Central Bank Digital Currencies, aka CBDCs.
 
 
 I𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
